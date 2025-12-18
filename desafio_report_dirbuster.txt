@@ -1,0 +1,73 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Wed Dec 17 15:37:06 CET 2025
+--------------------------------
+
+https://globo-market.onrender.com:443
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 200 response:
+
+/
+/assets/
+/api/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 200 responce:
+
+/assets/index-DIcIZ680.js
+/A
+/a
+/api
+/as
+/asset
+/B
+/b
+/di
+/bo
+/body
+/f
+/fa
+/d
+/D
+/H
+/ht
+/htm
+/index
+/Index
+/F
+/head
+/h
+/i
+/HTML
+/html
+/I
+/in
+/scr
+/s
+/S
+/sc
+/script
+/t
+/T
+/title
+/assets/I
+/assets/i
+/assets/index
+/assets/in
+/assets/Index
+
+Files found with a 301 responce:
+
+/assets
+
+Files found with a 502 responce:
+
+/vista.php
+
+
+--------------------------------
